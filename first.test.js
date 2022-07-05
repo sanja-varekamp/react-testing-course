@@ -14,4 +14,8 @@ describe("A group of tests", () => {
     it("Second", () => {
         expect(2+1).toBe(3);
     })
+
+    it("Third", () => {
+        expect(2+1).toBe(3);
+    })
 })
